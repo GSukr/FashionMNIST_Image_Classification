@@ -1,5 +1,5 @@
 # FashionMNIST_Image_Classification
-This approach (see FM_SG.ipynb) investigates whether multiple CNN models can achieve higher classification accuracy than any individual model.
+This approach (see [notebook](https://github.com/GSukr/FashionMNIST_Image_Classification/blob/master/FM_SG.ipynb)) investigates whether multiple CNN models can achieve higher classification accuracy than any individual model.
 
 ### Two simple strategies for combining models are examined:
 1. Classification based on the average class probabilities of models
